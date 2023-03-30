@@ -34,3 +34,11 @@ Optional:   https://docs.cloudera.com/cdp-public-cloud/cloud/cdpcurl/topics/mc-c
 
 * https://docs.cloudera.com/dataflow/cloud/flow-designer-beginners-guide-readyflow/topics/cdf-flow-designer-getting-started-readyflow.html
 
+### Quick Start
+
+https://www.youtube.com/watch?v=p9-Y1PRYDn4&t=2s
+https://blog.cloudera.com/serverless-nifi-flows-with-dataflow-functions-the-next-step-in-the-dataflow-service-evolution/
+https://docs.cloudera.com/dataflow/cloud/overview/topics/cdf-key-features.html
+https://www.linkedin.com/pulse/streaming-data-ingestion-open-lakehouse-made-easy-vetticaden/
+https://blog.cloudera.com/cloudera-dataflow-designer-the-key-to-agile-data-pipeline-development/
+
