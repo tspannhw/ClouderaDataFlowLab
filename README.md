@@ -7,6 +7,8 @@ ClouderaDataFlowLab - DataFlow based on Apache NiFi in the Public Cloud
 
 Optional:   pip3 install cdpcli --upgrade --user
 
+Optional:   https://docs.cloudera.com/cdp-public-cloud/cloud/cdpcurl/topics/mc-cdpcurl.html#mc-cdpcurl
+
 
 ### Documentation
 
